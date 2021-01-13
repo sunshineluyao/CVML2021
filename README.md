@@ -6,4 +6,4 @@
 
 **2. BTC Data from CM"**: we found the easiest way to import data from CM is using its [Github Repo CSV LINK](https://github.com/coinmetrics-io/data/blob/master/csv/btc.csv)
 
-**3. UTXO Age** : calculated from data quered from Google Bigquery public datasets: bigquery-public-data.crypto_bitcoin
+**3. UTXO Age** : calculated from data queried from Google Bigquery public datasets: bigquery-public-data.crypto_bitcoin
