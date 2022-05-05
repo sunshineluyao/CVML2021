@@ -6,4 +6,13 @@
 
 **2. BTC Data from CM"**: we found the easiest way to import data from CM is using its [Github Repo CSV LINK](https://github.com/coinmetrics-io/data/blob/master/csv/btc.csv)
 
-**3. UTXO Age** : calculated from data queried from Google Bigquery public datasets: bigquery-public-data.crypto_bitcoin
+**3. UTXO Age** : https://github.com/SciEcon/UTXO/blob/main/bitcoin/BitcoinResultUTXO2021-02-10.csv
+
+> **From Related Paper, Data, and Code.**
+
+> "Deciphering Bitcoin Blockchain Data by Cohort Analysis" by Yulin Liu, Luyao Zhang*, and Yinhong Zhao.  
+> 
+> [[Arxiv](https://arxiv.org/abs/2103.00173)]
+> [[Nature Research](https://www.nature.com/articles/s41597-022-01254-0)] 
+> [[Nature Research PDF](https://rdcu.be/cKRkg)] 
+> [[Harvard Dataverse](https://doi.org/10.7910/DVN/XSZQWP)]
